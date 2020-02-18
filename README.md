@@ -6,3 +6,10 @@ Als PHP ins www Verzeichnis des Webservers legen (apache). Einfach in eure Homep
 Im Beispiel sind LEDs an GPIO 17 und 22 geschalten .
 
 
+Software Installation
+.. 
+
+sudo apt-get install apache2
+
+
+sudo apt-get install pigpio
