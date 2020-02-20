@@ -5,6 +5,9 @@ Als PHP ins www Verzeichnis des Webservers legen (apache). Einfach in eure Homep
 
 Im Beispiel sind LEDs an GPIO 17 und 22 geschalten .
 
+Datei als index.php Speichern/Erstellen
+am Ende ist ein Startpunkt zur Startseite (Index.html)
+
 
 Software Installation
 .. 
