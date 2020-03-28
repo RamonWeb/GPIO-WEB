@@ -11,6 +11,7 @@ am Ende ist ein Startpunkt zur Startseite (Index.html)
 
 Software Installation
 .. 
+
 sudo apt-get install php
 
 sudo apt-get install apache2
